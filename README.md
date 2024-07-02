@@ -1,1 +1,1 @@
-# ISIC_2017-Segmentation_dataset-
+# All_about_Segmentation
